@@ -1,0 +1,17 @@
+Execute the below code and write your description in txt file
+
+The typeof operator returns a string indicating the type of the unevaluated operand.
+
+Syntax
+typeof operand
+typeof(operand)
+
+typeof(1) - number
+typeof(1.1) - number
+typeof('1.1')- string
+typeof(true) - boolean
+typeof(null) - object
+typeof(undefined)- undefined
+typeof([]) - object
+typeof({}) - object
+typeof(NaN) - number
